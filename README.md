@@ -127,7 +127,7 @@ These commands are intended for maintainers only.
 Traditional APK
 
 ```bash
-flutter build apk
+flutter build apk "this step isn't useful"
 ```
 
 AppBundle for Google Play
